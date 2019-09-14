@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/shengchen/workspace/RoboND-Home-Service-Robot/catkin_ws/src/location_monitor/devel -DCMAKE_INSTALL_PREFIX=/home/shengchen/workspace/RoboND-Home-Service-Robot/catkin_ws/src/location_monitor/install -G Unix Makefiles
