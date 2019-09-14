@@ -97,3 +97,17 @@ rqt_graph
    ```# RoboND-Home-Service-Robot
 
    ```
+
+This was a project to get you started with "autonomous" mapping and localization.
+You can use that as a starting point to explore and build upon. For example, a first step would be to expand the wall follower.
+This is certainly not a trivial task
+
+Here are some interesting links to start exploring indoor mapping!
+
+- [Maze solving algorithm](https://en.wikipedia.org/wiki/Maze_solving_algorithm)
+- [Dynamical Wall Following for a Wheeled RobotUsing a Passive Tactile Sensor](https://limbs.lcsr.jhu.edu/wp-content/uploads/2013/05/Lamperskidynamical2005.pdf)
+- [Frontier-Based Exploration](http://robotfrontier.com/frontier/index.html)
+- [Autonomous Visual Mapping](https://pdfs.semanticscholar.org/c3ba/044c2d2b6cfaf1100428e8f6a4b68c3e22d5.pdf)
+- [Book. The Map-Building and Exploration Strategies of a Simple Sonar-Equipped Mobile Robot , David, Lee](https://www.cambridge.org/core/books/mapbuilding-and-exploration-strategies-of-a-simple-sonarequipped-mobile-robot/E194057572CBC5AB7085457AE28D3FD7)
+- [Algorithms and a Framework for Indoor Robot Mapping in a Noisy Environment Using Clustering in Spatial and Hough Domains](http://journals.sagepub.com/doi/full/10.5772/59992)
+- [A LASER-SLAM ALGORITHM FOR INDOOR MOBILE MAPPING](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B4/351/2016/isprs-archives-XLI-B4-351-2016.pdf)
