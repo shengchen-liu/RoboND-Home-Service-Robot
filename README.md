@@ -6,6 +6,8 @@ In this project, you will use everything you learned in the Nanodegree Program t
 
 ![](videos/Home_Robot.gif)
 
+Click [here](https://youtu.be/T2lkpL-Nbrg) for Youtube link.
+
 ## SLAM Testing
 
 The next task of this project is to autonomously map the environment you designed earlier with the Building Editor in Gazebo. But before you tackle autonomous mapping, it’s important to test if you are able to manually perform SLAM by teleoperating your robot. The goal of this step is to manually test SLAM.
@@ -93,3 +95,5 @@ git clone https://github.com/turtlebot/turtlebot_apps.git
    ```
 rqt_graph
    ```# RoboND-Home-Service-Robot
+
+   ```
